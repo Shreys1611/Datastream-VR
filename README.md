@@ -1,7 +1,7 @@
 # DataStream VR: A VR Simulator for Computer Networking
 
 <p align="center">
-  <img src="Images/datastream-vr-gameplay.gif" alt="Gameplay GIF of DataStream VR" width="800"/>
+  <img src="Images/datastream-02.gif" alt="Gameplay GIF of DataStream VR" width="800"/>
 </p>
 
 ## An Expo-Showcased VR Educational Simulator
@@ -16,9 +16,9 @@ This project was successfully demonstrated at a university expo, where it was te
 
 ### 🖼️ Project Showcase
 
-| The Main Hub | Visualizing Data Flow | VR Interaction |
+| The Warehouse Environment | Control Panel | Data Packet |
 | :---: | :---: | :---: |
-| ![A screenshot of the central control panel where the player receives objectives.](Images/datastream-01.png) | ![A screenshot showing "data packet" boxes moving along conveyor belts.](Images/datastream-02.png) | ![A screenshot of the player grabbing a "packet" box using the VR controllers.](Images/datastream-03.png) |
+| ![A screenshot of the central control panel where the player receives objectives.](Images/datastream-01.png) | ![A screenshot showing "data packet" boxes moving along conveyor belts.](Images/datastream-04.png) | ![A screenshot of the player grabbing a "packet" box using the VR controllers.](Images/datastream-03.png) |
 
 ---
 
@@ -45,8 +45,7 @@ As a key programmer on the team, my role was to build the core systems that brou
 ### 🔧 Tech Stack
 
 * **Engine:** Unity
-* **VR Platform:** Unity XR Plugin
 * **Hardware:** Meta Quest 2
 * **3D Modeling:** Blender
 * **Language:** C#
-* **Version Control:** Git
+* **Version Control:** Diversion
